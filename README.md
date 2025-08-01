@@ -8,9 +8,21 @@ Es wurde zusammengestellt, um das Spielerlebnis mit nützlichen Mods wie Mini-Ma
 🧱 **Hinweis:**  
 Das Modpack ist **nicht zwingend erforderlich**, aber empfohlen. Du kannst auch mit Vanilla Minecraft oder deinem eigenen Modpack am Projekt teilnehmen.
 
-## 🔧 Installation
+## 🔧 Modrinth Installation:
 
-Lade das Modpack über deinen bevorzugten Launcher (z. B. CurseForge oder Modrinth) und importiere es ganz einfach.
+1. Lade die `BuildMC 4.mrpack` Datei herunter.
+2. Öffne die Modrinth app.
+3. Drücke auf das `+`.
+4. Wähle aus `From File`und wähle bei `Import from file`
+
+Warte bis es installiert.
+
+## 🔧 Installation:
+1. Drücke auf den Grünen `Code` Knopf und wähle `Download ZIP`
+2. Extrahiere die `.zip` Datei.
+3. Überschreiben deinen `mods` Ordner mit dem enthaltenen `mods` Ordner.
+
+⚠️WICHTIG: Die mods sind für **Fabric 1.21.8**!
 
 ## 📜 Inhalt
 
